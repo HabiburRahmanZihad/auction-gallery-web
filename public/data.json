@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "title": "Vintage Leica M3 Camera",
+        "description": "An exciting auction event where you can bid on amazing items.",
+        "currentBidPrice": 2800,
+        "timeLeft": "1 Days left",
+        "bidsCount": 5,
+        "image": "https://i.ibb.co.com/39rN4Yd0/Bid1-min.png"
+    },
+    {
+        "id": 2,
+        "title": "1965 Gibson SG Standard Electric Guitar",
+        "description": "An exciting auction event where you can bid on amazing items.",
+        "currentBidPrice": 2850,
+        "timeLeft": "2 Days left",
+        "bidsCount": 10,
+        "image": "https://i.ibb.co.com/dJjWJZt0/Bid2-min.png"
+    },
+    {
+        "id": 3,
+        "title": "Original Apple Macintosh 128K (1984)",
+        "description": "An exciting auction event where you can bid on amazing items.",
+        "currentBidPrice": 2900,
+        "timeLeft": "4 Days left",
+        "bidsCount": 2,
+        "image": "https://i.ibb.co.com/7dgDSGfk/Bid3-min.png"
+    },
+    {
+        "id": 4,
+        "title": "Rolex Submariner 16610",
+        "description": "An exciting auction event where you can bid on amazing items.",
+        "currentBidPrice": 2950,
+        "timeLeft": "5 Days left",
+        "bidsCount": 8,
+        "image": "https://i.ibb.co.com/NgpsK8Bv/Bid4-min.png"
+    },
+    {
+        "id": 5,
+        "title": "Mid-Century Modern Eames Lounge Chair",
+        "description": "An exciting auction event where you can bid on amazing items.",
+        "currentBidPrice": 3000,
+        "timeLeft": "2 Days left",
+        "bidsCount": 1,
+        "image": "https://i.ibb.co.com/MDJZy40c/Bid5-min.png"
+    },
+    {
+        "id": 6,
+        "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+        "description": "An exciting auction event where you can bid on amazing items.",
+        "currentBidPrice": 3050,
+        "timeLeft": "6 Days left",
+        "bidsCount": 15,
+        "image": "https://i.ibb.co.com/nMX6kWTf/Bid6-min.png"
+    },
+    {
+        "id": 7,
+        "title": "Banksy Original Screen Print",
+        "description": "An exciting auction event where you can bid on amazing items.",
+        "currentBidPrice": 3100,
+        "timeLeft": "9 Days left",
+        "bidsCount": 3,
+        "image": "https://i.ibb.co.com/prPFxtPB/Bid7-min.png"
+    }
+]
